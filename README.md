@@ -10,7 +10,7 @@ It showcases basic webpage structure, styling, and responsive layout principles.
 
 - • Instructions on how to open the website (index.html) in a browser
 - Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone  https://github.com/your-username/Exercise_Unit5_website.git
 Navigate into the project folder
 cd Exercise_Unit5_website
 Double-click the index.html file.
