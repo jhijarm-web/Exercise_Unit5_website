@@ -1,0 +1,9 @@
+# Ignore editor folders
+.vscode/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore temporary or backup files
+*.tmp
+*.log
